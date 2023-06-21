@@ -30,6 +30,12 @@ switch (numero) {
         break;
 }
 
+let contador = 0
+do{
+    console.log(contador)
+    contador++
+}while(contador <= +entrada)
+
 const suma = (a, b) => a + b
 const resta = (a, b) => a - b
 const calcularPrecio = valorProducto => valorProducto * +entrada
