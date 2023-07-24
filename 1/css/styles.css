@@ -4,14 +4,14 @@
     box-sizing: border-box;
     font-size: 62.5%;
     font-size: 1rem;
-    color: #f0f0f0;
+    color: #020000;
     font-family: 'Source Sans Pro', sans-serif;
     text-decoration: none;
     list-style-type: none;
 }
 
 body{
-    background-color: #0e0e0e;
+    background-color: #ffffff;
 }
 
 header{
@@ -23,7 +23,7 @@ header{
 
 h1{
     font-size: 2rem;
-    color: #0e0e0e;
+    color: #000000;
 }
 
 h2{
